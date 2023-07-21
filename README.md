@@ -20,13 +20,13 @@ Please note that this project is purely for learning, and the code is based on a
 
 To get started with the project, you'll need to have Node.js and npm (Node Package Manager) installed on your system.
 
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/Abee777/threejs-first-project.git
 
-2. Install dependencies:
+2. Install dependencies: npm install
 
-3. Run the development server:
+3. Run the development server: npm run dev
 
-4. Open your web browser and navigate to `http://localhost:3000` to view the project.
+4. Open your web browser and navigate to `http://localhost:3000` to view the project or specific to Vite's local development server.
 
 ## Usage
 
